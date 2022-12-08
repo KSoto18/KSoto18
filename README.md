@@ -2,12 +2,14 @@
 <h3 align="center">A passionate frontend developer from Orlando, Florida</h3>
 
 <div  align="center">
-- 👨‍💻 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React/)
+👨‍💻 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React/)
 
-- 📫 Reach me at: [Email](mailto:khris.soto@live.com
+📫 Reach me at: [Email](mailto:khris.soto@live.com)
 
-- ⚡ Fun fact **I can drive manual transmission cars!**
+⚡ Fun fact **I can drive manual transmission cars!**
 
+<br><br>
+  
 <h3 align="center">
 Connect with me:</h3>
 <p align="center">

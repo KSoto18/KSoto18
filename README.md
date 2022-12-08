@@ -1,10 +1,11 @@
 <h1 align="center">Hey 👋, I'm Khris Soto</h1>
-<h3 align="center">A passionate frontend developer from Orlando, Florida</h3>
+<h3 align="center">A passionate frontend developer from Orlando, Florida.</h3>
 
-<div  align="center">
-👨‍💻 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React)
+<div align="center">
+  
+👽 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React) 💻
 
-📫[Email](mailto:khris.soto@live.com) me!
+📫 [Email](mailto:khris.soto@live.com) ME!
 
 ⚡ Fun fact **I can drive manual transmission cars!**
 

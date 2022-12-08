@@ -1,14 +1,16 @@
 <h1 align="center">Hey 👋, I'm Khris Soto</h1>
 <h3 align="center">A passionate frontend developer from Orlando, Florida</h3>
 
+<div  align="center">
 - 👨‍💻 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React/)
 
 - 📫 Reach me at: [Email](mailto:khris.soto@live.com
 
 - ⚡ Fun fact **I can drive manual transmission cars!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">
+Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/khristel soto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khristel soto" height="30" width="40" /></a>
 </p>
 

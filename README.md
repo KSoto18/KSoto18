@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Khris Soto</h1>
-<h3 align="center">A passionate frontend developer from Orlando, Florida.</h3>
+<h3 align="center">A passionate Web Developer from Orlando, Florida.</h3>
 
 <div align="center">
   

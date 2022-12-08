@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Khris Soto</h1>
 <h3 align="center">A passionate Web Developer from Orlando, Florida.</h3>
 
+<br>
+
 <div align="center">
   
 👽 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React) 💻
@@ -9,6 +11,8 @@
 
 ⚡ Fun fact **I can drive manual transmission cars!**
 
+  </div>
+  
 <br><br>
   
 <h3 align="center">

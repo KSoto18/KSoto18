@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Khris Soto</h1>
 <h3 align="center">A passionate frontend developer from Orlando, Florida</h3>
 
-- 👨‍💻 All of my projects are available at [https://ksoto18.github.io/Portfolio-React/](https://ksoto18.github.io/Portfolio-React/)
+- 👨‍💻 Checkout my [Profile](https://ksoto18.github.io/Portfolio-React/)
 
-- 📫 How to reach me **Khris Soto**
+- 📫 Reach me at: [Email](mailto:khris.soto@live.com
 
 - ⚡ Fun fact **I can drive manual transmission cars!**
 

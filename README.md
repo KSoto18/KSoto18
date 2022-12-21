@@ -28,6 +28,8 @@ Connect with me:</h3>
 <br><br>
 
 <img align="center" background-color="black" src="https://github-readme-stats.vercel.app/api?username=ksoto18&show_icons=true&locale=en" theme="blue" alt="ksoto18" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksoto18&show_icons=true&locale=en&layout=compact&theme=material-palenight)]
   
 <br><br>
 

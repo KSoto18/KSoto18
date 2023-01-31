@@ -34,3 +34,7 @@ Connect with me:</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksoto18&show_icons=true&locale=en&layout=compact" theme="blue" alt="ksoto18" />
 
  </div>
+ 
+ <div>
+  ![trophy](https://github-profile-trophy.vercel.app/?ksoto18=kattni)
+ </div>

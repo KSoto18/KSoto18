@@ -35,6 +35,8 @@ Connect with me:</h3>
 
  </div>
  
+ <br><br>
+ 
  <div>
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=ksoto18)

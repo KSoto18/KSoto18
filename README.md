@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Khris Soto</h1>
+<h1 align="start">Hey 👋, I'm Khris Soto</h1>
 <h3 align="center">A passionate Web Developer from Orlando, Florida.</h3>
 
 <br>

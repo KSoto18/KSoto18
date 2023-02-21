@@ -5,6 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&animation=fadeIn&theme=tokyonight&height250&section=header&text=Khris%20Soto&desc=Web%20Developer&descAlignY=85&fontSize=80)
   
   <br>
+  <p>Welcome to my page!</p>
+  <p>My name is Khris! I'm a recent UCF Full-Stack BootCamp graduate from Orlando, Fl.</p>
+  <br>
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=ksoto18&theme=onedark)
   

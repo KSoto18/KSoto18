@@ -53,8 +53,8 @@ Skills & Tools
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KSoto18&theme=aura&show_icons=true)
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KSoto18&theme=aura&show_icons=true)
+ -->
             
   </div>
  

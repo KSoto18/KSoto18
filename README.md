@@ -6,7 +6,7 @@
   
   <br>
   <p>Welcome to my page!</p>
-  <p>My name is Khris! I'm a recent UCF Full-Stack BootCamp graduate from Orlando, Fl.</p>
+  <p>My name is Khris! I'm a certefied Full-Stack Web Developer from Orlando, Fl.</p>
   <br>
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=ksoto18&theme=onedark)

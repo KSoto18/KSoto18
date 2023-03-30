@@ -29,17 +29,6 @@
 <br><br>
 
 
-<div align="center">
-  
- Connect With Me
-  
-<a href="https://www.linkedin.com/in/khristel-soto-9468a6259/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="https://discordapp.com/users/[296778518954508289]" target="blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="https://www.codecademy.com/profiles/KSoto18" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/code-cademy-3627425-3028736.png?f=avif&w=46"/></a>
-  
-</div>
-
-
 <br><br>
 
 <div align="center">
@@ -61,6 +50,18 @@ Skills & Tools
  -->
             
   </div>
+  
+  <div align="center">
+  
+  #
+  
+ Connect With Me
+  
+<a href="https://www.linkedin.com/in/khristel-soto-9468a6259/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discordapp.com/users/[296778518954508289]" target="blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.codecademy.com/profiles/KSoto18" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/code-cademy-3627425-3028736.png?f=avif&w=46"/></a>
+  
+</div>
  
 
  
